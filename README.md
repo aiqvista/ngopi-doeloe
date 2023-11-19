@@ -1,1 +1,1 @@
-#a simple responsive coffeeshop website using HTML, CSS and Javascript
+A simple responsive coffeeshop website using HTML, CSS and Javascript
